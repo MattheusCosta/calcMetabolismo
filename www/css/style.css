@@ -1,2 +1,38 @@
-/**/
-
+.titulo{
+ background-color: #008B8B;
+ margin-bottom: 20px;
+}
+.container{
+  background-color: #E0FFFF;
+}
+.titulo h2{
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+.linhaSexo{
+  margin-left: 40px;
+}
+.linhaBaixo{
+  margin-bottom: 15px; 
+}
+.linhaFormulario{
+  display: flex;
+  flex-direction: row;
+  flex-flow: row nowrap;
+  justify-content: center;
+}
+.linhaAtividade{
+  margin-left: 20px;
+}
+.linhaFormulario button{
+  border-radius: 50%;
+  margin-right: 20px;
+}
+.linhaFormulario label{
+  font-size: 15px;
+}
+.display label{
+  text-align: center;
+}
