@@ -2,9 +2,6 @@
  background-color: #008B8B;
  margin-bottom: 20px;
 }
-.container{
-  background-color: #E0FFFF;
-}
 .titulo h2{
   color: white;
   text-align: center;
@@ -29,10 +26,19 @@
 .linhaFormulario button{
   border-radius: 50%;
   margin-right: 20px;
+  background-color: #008B8B;
 }
 .linhaFormulario label{
   font-size: 15px;
 }
 .display label{
   text-align: center;
+}
+.display input{
+  box-shadow: 0 0 0 0;
+  border: 0 none;
+  outline: 0;
+}
+hr{
+ border-color: #008B8B; 
 }
