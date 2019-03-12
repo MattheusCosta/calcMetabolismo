@@ -42,3 +42,7 @@
 hr{
  border-color: #008B8B; 
 }
+img{
+  height: 100%;
+  width: 100%;
+}
